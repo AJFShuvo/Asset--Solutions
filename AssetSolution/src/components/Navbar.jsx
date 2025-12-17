@@ -1,4 +1,4 @@
-//58min:59s
+//1h:12min:55s
 import React,{useEffect, useState} from "react";
 import { assets } from "../assets/assets";
 const Navbar = () => {
