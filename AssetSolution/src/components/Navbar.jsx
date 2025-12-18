@@ -1,4 +1,4 @@
-//1h:12min:55s
+//1h:40min:05s
 import React,{useEffect, useState} from "react";
 import { assets } from "../assets/assets";
 const Navbar = () => {
@@ -59,10 +59,10 @@ const Navbar = () => {
             Projects
           </a>
           <a onClick={()=>setShowMobileMenu(false)}
-            href="#Testimonails"
+            href="#Testimonials"
             className="px-4 py-2 rounded-full inline-block"
           >
-            Testimonails
+            Testimonials
           </a>
         </ul>
       </div>
