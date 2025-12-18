@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Projects from './components/Projects';
 import Testimonials from './components/Testimonials';
 import ReactLenis from 'lenis/react'
+import Contact from './components/Contact';
 const App = () => {
   return (
     <ReactLenis
@@ -23,6 +24,7 @@ const App = () => {
         <About/>
         <Projects/>
         <Testimonials/>
+        <Contact/>
     </div>
     </ReactLenis>
   )
